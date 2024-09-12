@@ -57,6 +57,13 @@ Each link below provides one or more exercises found at the end of each Jupyter 
 
 ---
 
+## 💻 GitHub Repository 3: [Cryptocoding](https://github.com/veorq/cryptocoding?tab=readme-ov-file#compare-secret-strings-in-constant-time)
+
+- This page lists "coding rules" for implementations of cryptographic operations.
+- The rules on this page are general recommendations and best practices to write safer code.
+
+---
+
 ## 📖 Book: [Understanding Cryptography]()
 
 Each link below provides one exercise on the corresponding topic:
